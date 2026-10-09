@@ -1,0 +1,6 @@
+{
+  "name": "OptiSqueeze - Photo & Video Compressor",
+  "description": "Production-grade photo and video compressor engineered for accurate target-size control, minimal quality loss, and fast processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
